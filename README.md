@@ -10,12 +10,4 @@ software engineer by day, leetcode grinder by night — problem solver by obsess
 
 ---
 
-## 💡 things i believe in
-
-- two pointers fix more than just array problems
-- recursion only makes sense after it doesn't
-- writing it out beats staring at it every time
-- 
----
-
 *crackin' problems every day. let's gooo 🚀*
