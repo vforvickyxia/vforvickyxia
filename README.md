@@ -20,9 +20,9 @@ software engineer by day, leetcode grinder by night — problem solver by obsess
 
 ## 💡 things i believe in
 
-- hash maps solve like 40% of array problems, no cap
-- understanding > memorizing, always
-- consistency is the only cheat code
+- two pointers fix more than just array problems
+- recursion only makes sense after it doesn't
+- writing it out beats staring at it every time
 
 ---
 
