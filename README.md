@@ -7,6 +7,7 @@ software engineer by day, leetcode grinder by night — problem solver by obsess
 
 - 🐍 [leetcode-python](https://github.com/vforvickyxia/leetcode-python) — grinding problems in Python
 - ☕ [leetcode-java](https://github.com/vforvickyxia/leetcode-java) — same grind, different language
+- ⚙️ [Algorithm](https://github.com/vforvickyxia/Algorithm) - Deep in Algorithms! 
 
 ---
 
