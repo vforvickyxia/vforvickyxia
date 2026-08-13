@@ -1,4 +1,4 @@
-# hey, i'm Vic 🦒
+# hey, i'm Vic 
 software engineer by day, leetcode grinder by night — problem solver by obsession.
 
 ---
